@@ -1,0 +1,15 @@
+body{
+background-image:url("https://www.via-infrastructure.fr/upload-articles/adobestock-244590214--1-.jpeg");
+background-repeat:no-repeat;
+background-position:center;
+BACKGROUND-SIZE:cover;
+}
+.p1{
+	font-family: Helvetica, Arial, sans-serif;
+}
+.p2{
+	color:blue;
+}
+#hidden{
+	display:none;
+}
